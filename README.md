@@ -23,7 +23,7 @@
 
 ## 📚 Currently Learning
 - SQL  
-- HTML% CSS#  
+- HTML5 CSS3  
 - Data Analysis  
 
 ---
