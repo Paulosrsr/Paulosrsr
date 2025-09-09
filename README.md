@@ -1,14 +1,13 @@
 # 👋 Hi, I’m Paulo Sérgio
 
 🎓 I’m studying **Software Engineering** at the University of Brasília.  
-🚀 Passionate about **Data Science** and always motivated to face new challenges.  
+🚀 Currently exploring different fields in technology and discovering which area I connect with the most.  
 💡 Optimistic and dedicated, focused on continuous learning and growth.  
 
 ---
 
 ## 🔧 Technologies & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -24,15 +23,15 @@
 
 ## 📚 Currently Learning
 - SQL  
-- Machine Learning  
+- HTML% CSS#  
 - Data Analysis  
 
 ---
 
 ## 📫 Let’s Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](SEU_INSTAGRAM)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_paulo.s_)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulosergiorsrios12@gmail.com)
 
 ---
 
