@@ -16,8 +16,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Paulo’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulosrsr&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulosrsr&layout=compact&theme=radical)
+![Paulo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PauloSrsr&show_icons=true&title_color=00aaff&text_color=ffffff&icon_color=00aaff&bg_color=0d1117&border_color=00aaff)
 
 ---
 
